@@ -8,7 +8,7 @@
       "output": "package.json",
       "comparison": "included",
       "timeout": 10,
-      "points": 10000
+      "points": 14000
     },
     {
       "name": "You used npm to install Broswersync",
@@ -18,7 +18,7 @@
       "output": "browser-sync",
       "comparison": "included",
       "timeout": 10,
-      "points": 10000
+      "points": 14000
     },
     {
       "name": "You created index.html",
@@ -28,7 +28,7 @@
       "output": "index.html",
       "comparison": "included",
       "timeout": 10,
-      "points": 10000
+      "points": 14000
     },
     {
       "name": "index.html contains a Z in the alphabet table",
@@ -38,7 +38,7 @@
       "output": ".*<td>[Zz]<\\/td>.*",
       "comparison": "regex",
       "timeout": 10,
-      "points": 10000
+      "points": 14000
     },
     {
       "name": "index.html parses as valid HTML",
@@ -48,7 +48,7 @@
       "output": "",
       "comparison": "exact",
       "timeout": 10,
-      "points": 10000
+      "points": 11428
     },
     {
       "name": "Node.js version",
